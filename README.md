@@ -6,4 +6,4 @@
 The Minishell repeats the behavior of the bash.
 
 Creators:
-@kndahl & @sudo-spivak
+http://www.github.com/kndahl & http://www.github.com/sudo-spivak
